@@ -1,6 +1,9 @@
 # Web App Starter Kit
 This is a React App Starter Kit, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img width="1470" alt="image" src="https://github.com/iskevinlemon/starter-kit-web-app/assets/126497052/60163c78-f3e9-45a2-b794-1cd8a87ac720">
+
+
 ## Installing all dependencies
 To install all dependencies, run:
 ### `npm install`
