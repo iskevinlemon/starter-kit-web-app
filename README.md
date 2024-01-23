@@ -10,6 +10,7 @@ This Starter Kit has been pre-configured with:
 <ul>
     <li>UI Library - Boostrap version 4.6.2</li>
     <li>Icons Library - Font Awesome 6 (CDN) </li>
+    <li>Font - Google Font (CDN)</li>
     <li>React Hot Toast </li>
     <li>Routing - React Router version 5</li>
     <li>Firebase</li>
