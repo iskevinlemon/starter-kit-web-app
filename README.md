@@ -1,4 +1,4 @@
-# React App Starter Kit
+# Web App Starter Kit
 This is a React App Starter Kit, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installing all dependencies
